@@ -15,7 +15,7 @@ from datetime import datetime
 # ══════════════════════════════════════════
 #  CONFIGURATION — REMPLIS CES DEUX VALEURS
 # ══════════════════════════════════════════
-TELEGRAM_TOKEN = "TON_NOUVEAU_TOKEN_ICI"   # depuis @BotFather après /revoke
+TELEGRAM_TOKEN = "8727092080:AAHHuG6yXoVR2FjVtlv1Zy9MvQEpcd5F-tc"   # depuis @BotFather après /revoke
 CHAT_ID        = "6946825909"              # ton chat ID
 
 # ══════════════════════════════════════════
